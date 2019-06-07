@@ -1,17 +1,22 @@
-[
-  {
-    "id": 1,
-    "name": "Ken",
-    "age": 21
-  },
-  {
-    "id": 2,
-    "name": "Shaefer",
-    "age": 31
-  },
-  {
-    "id": 3,
-    "name": "Maddie",
-    "age": 41
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Ken",
+      "age": 21
+    },
+    {
+      "id": 2,
+      "name": "Shaefer",
+      "age": 31
+    },
+    {
+      "id": 3,
+      "name": "Maddie",
+      "age": 41
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
